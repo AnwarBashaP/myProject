@@ -1,0 +1,61 @@
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgb(62,62,62);
+}
+
+.nav-item a {
+  color: red;
+}
+
+.fa.fa-car.logo {
+  font-size: 20px;
+  line-height: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: 15px;
+}
+
+#carousel-1 {
+}
+
+#ferrari {
+  margin-top: 80px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.ferrari-header {
+  text-align: center;
+  padding-bottom: 30px;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.card {
+  text-align: center;
+}
+
+.rolls-head {
+  margin-top: 80px;
+  text-align: center;
+  padding-bottom: 80px;
+  font-family: initial;
+  font-weight: bold;
+}
+
+.lamborghini-head {
+  text-align: center;
+  margin-top: 80px;
+  padding-bottom: 30px;
+  font-weight: bold;
+  font-family: serif;
+}
+
+.nissan-head {
+  text-align: center;
+  margin-top: 80px;
+  padding: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
