@@ -1,0 +1,68 @@
+body {
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background-image: url(../../assets/img/muffins-1329679_1280.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 300px) {
+  .jumbotron.jumptext {
+    padding: 10px;
+  }
+}
+
+@media (min-width: 576px) {
+  .jumbotron.jumptext {
+    margin: 10px;
+    height: 300px;
+  }
+}
+
+#logo {
+  padding-right: 10px;
+}
+
+#welcome {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 10px;
+  /*text-overflow: clip;*/
+  margin: 20px;
+}
+
+.fa {
+  color: rgb(240,115,139);
+  font-size: 35px;
+}
+
+#choose {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#choose p {
+  font-size: 20px;
+  padding-top: 10px;
+  margin: 10px;
+  font-family: 'Cherry Swash';
+  font-weight: bold;
+}
+
+#gallery {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.col-4.secRow {
+  margin-top: 80px;
+}
+
+#galleryHeading {
+  margin-bottom: 50px;
+}
+
