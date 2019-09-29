@@ -1,0 +1,49 @@
+p {
+}
+
+.carousel-content {
+  font-size: 50PX;
+  /*margin: 300px 250px;*/
+  /*margin-left: 200px;*/
+  /*margin-right: 0px;*/
+  /*text-align: center;*/
+}
+
+.row.carousel-head {
+  position: inherit;
+}
+
+#quotes {
+  position: relative;
+}
+
+#carousel-1 {
+  position: relative;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.carousel-content {
+}
+
+.card-title {
+  element.style {  font-family: 'Averia Serif Libre', cursive;
+}
+
+.container.border.rounded-0 {
+  border-radius: 50px;
+}
+
+.btn-group > .btn-group:not(:last-child) > .btn, .btn-group > .btn:not(:last-child):not(.dropdown-toggle) {
+  border-radius: 50px;
+}
+
+.btn-group > .btn-group:not(:first-child) > .btn, .btn-group > .btn:not(:first-child) {
+  border-radius: 50px;
+}
+
+.btn-group > .btn-group:not(:first-child) > .btn, .btn-group > .btn:not(:first-child) {
+  border-radius: 45px;
+}
+
